@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1625327075 source:g:\c++\function overloading\main.cpp
+	<iostream>
+	"t1.h"
+
+1625327075 g:\c++\function overloading\t1.h
+	<iostream>
+
+1625325797 source:g:\c++\function overloading\t1.cpp
+	<iostream>
+	"t1.h"
+
+1625327370 source:g:\oop\paper preperation\function overloading\main.cpp
+	<iostream>
+	"t1.h"
+
+1625328714 g:\oop\paper preperation\function overloading\t1.h
+	<iostream>
+
+1625327214 source:g:\oop\paper preperation\function overloading\t1.cpp
+	<iostream>
+	"t1.h"
+
